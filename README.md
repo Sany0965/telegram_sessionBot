@@ -1,5 +1,5 @@
 # telegram_sessionBot
-```markdown
+
 # Telegram Session Generator Bot
 
 Бот для генерации `.session` файлов вашего Telegram-аккаунта.  
